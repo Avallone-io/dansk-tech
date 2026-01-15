@@ -117,5 +117,11 @@
       "Sendgrid",
       "Amazon SES"
     ]
+  },
+  {
+  "name": "NextSign.dk",
+  "url": "https://www.nextsign.dk/",
+  "description": "Digital underskriftsløsning for virksomheder og organisationer",
+  "alternatives": ["DocuSign", "Scrive"]
   }
 ]
