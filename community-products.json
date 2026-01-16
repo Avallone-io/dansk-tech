@@ -119,21 +119,31 @@
     ]
   },
   {
-  "name": "NextSign.dk",
-  "url": "https://www.nextsign.dk/",
-  "description": "Digital underskriftsløsning for virksomheder og organisationer",
-  "alternatives": ["DocuSign", "Scrive"]
+    "name": "NextSign.dk",
+    "url": "https://www.nextsign.dk/",
+    "description": "Digital underskriftsløsning for virksomheder og organisationer",
+    "alternatives": [
+      "DocuSign",
+      "Scrive"
+    ]
   },
-{ 
-  "name": "dataandmore.com",
-  "url": "https://dataandmore.com/",
-  "description": "Identifikation og sletning af GDPR og sikkerhedsinformation til compliance og risiko i ustrukturerede data. ",
-  "alternatives": ["Miscrosoft Purview", "BigID","Varonis"]
+  {
+    "name": "dataandmore.com",
+    "url": "https://dataandmore.com/",
+    "description": "Identifikation og sletning af GDPR og sikkerhedsinformation til compliance og risiko i ustrukturerede data. ",
+    "alternatives": [
+      "Miscrosoft Purview",
+      "BigID",
+      "Varonis"
+    ]
+  },
+  {
+    "name": "Holdsport.dk",
+    "url": "https://holdsport.dk",
+    "description": "Software til kontingentopkrævning, kommunikation og medlemsadministration online.",
+    "alternatives": [
+      "Spond",
+      "Clubdesk"
+    ]
   }
 ]
-{
-  "name": "Holdsport.dk",
-  "url": "https://holdsport.dk",
-  "description": "Software til kontingentopkrævning, kommunikation og medlemsadministration online.",
-  "alternatives": ["Spond", "Clubdesk"]
-}
