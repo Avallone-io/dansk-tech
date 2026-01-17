@@ -215,6 +215,21 @@
             Hvem står bag? <span aria-hidden="true">→</span>
           </a>
         </div>
+        
+        <!-- Media mentions section -->
+        <div class="mt-16 pt-12 border-t border-gray-200/50 dark:border-gray-700/50">
+          <p class="text-xs font-medium uppercase tracking-wider text-gray-400 dark:text-gray-500 mb-8">Omtalt i bl.a.</p>
+          <div class="flex flex-wrap items-center justify-center gap-10 sm:gap-16">
+            <!-- TechSavvy logo -->
+            <div class="group flex items-center justify-center h-12 opacity-90 hover:opacity-100 transition-opacity duration-300">
+              <img src="techsavvy.png" alt="TechSavvy" class="h-full w-auto max-w-[140px] object-contain transition-all duration-300" />
+            </div>
+            <!-- Berlingske logo -->
+            <div class="group flex items-center justify-center h-12 opacity-90 hover:opacity-100 transition-opacity duration-300">
+              <img src="berlingske.png" alt="Berlingske" class="h-full w-auto max-w-[140px] object-contain transition-all duration-300" />
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
