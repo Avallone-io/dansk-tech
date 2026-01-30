@@ -611,7 +611,7 @@
     
     // GitHub contributors
     (async () => {
-      const response = await fetch('https://api.github.com/repos/Boligforeningsweb/dansk-tech/contributors');
+      const response = await fetch('https://api.github.com/repos/Boligforeningsweb/dansk-tech/contributors?per_page=500&page=1');
       const contributors = await response.json();
       const container = document.getElementById('contributors');
 
